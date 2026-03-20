@@ -1,1 +1,1 @@
-# gittttttt!
+Sample repository
